@@ -5,7 +5,7 @@ document.getElementById('select-zico').addEventListener('click', function () {
     getPlayerName('zico', 'select-zico');
 });
 document.getElementById('select-kallu').addEventListener('click', function () {
-    getPlayerName('zico', 'select-kallu');
+    getPlayerName('kallu', 'select-kallu');
 });
 document.getElementById('select-Robinho').addEventListener('click', function () {
     getPlayerName('Robinho', 'select-Robinho');
